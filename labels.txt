@@ -1,3 +1,2 @@
-0 가위
-1 바위
-2 보
+0 normal tire
+1 level 1 tire
